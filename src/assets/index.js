@@ -31,7 +31,7 @@ import dEngage from "./company/dengage_logo.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.PNG";
+import tripguide from "./tripguide.png";
 
 import upwork from "../assets/upwork-tile.svg";
 const upworkProfile  =  "https://www.upwork.com/freelancers/~01ff15bb93d1cf48b9";
